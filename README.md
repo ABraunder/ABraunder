@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-## My name is Andrei, I'm a beginner python developer, I'm not as good as I'd like to be yet, but I'll keep trying
+## My name is Andrey, I'm a beginner Python developer, currently practicing creating Discord bots and automating processes for game servers.
